@@ -1,6 +1,8 @@
 body{
-    background-color: #7DB46C;
-    color: #E7EBE0;
+    height: 200px;
+    background-color: #8fc57e;
+    color: white;
+    background-image: linear-gradient(to right, #8fc57e , #ABD6DF);
 } 
 #heading{
     text-align: center;
@@ -8,7 +10,7 @@ body{
 }
 .sub{
     text-align: center;
-    color:#ABD6DF;
+    color:black;
 }
 .table th,td{
     border: 1.5px solid black;
