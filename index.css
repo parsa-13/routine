@@ -30,8 +30,8 @@ a:hover{
  color: #ABD6DF;
 }
 a:link{
-    color: rgb(0, 0, 0);
+    color: pink;
    }
 a:visited{
-    color: blue;
+    color: pink;
    }
